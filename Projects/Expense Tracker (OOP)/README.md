@@ -1,4 +1,4 @@
-# Expense Tracker Project
+# Project : Expense Tracker
 
 ## Overview
 
@@ -11,7 +11,7 @@ This project contains the collaborative efforts of Shawaiz Shahid, Shahzeb Qures
 ## Collaborators
 
 - [Shawaiz Shahid](https://github.com/MadG0blin359)
-- [Shahzeb Qureshi](https://github.com/)
+- [Shahzeb Qureshi](https://github.com/shahzebqureshi)
 - [Waleed Afzal](https://github.com/beastwaleed)
 
 ## Contributions
@@ -62,4 +62,5 @@ Make sure you have the following installed on your system:
 For any inquiries or collaboration opportunities, please contact:
 
 - shawaizshahid312+github@gmail.com
+- shahzebqureshi6+github@gmail.com
 - waleedafzalshaikh+github@gmail.com

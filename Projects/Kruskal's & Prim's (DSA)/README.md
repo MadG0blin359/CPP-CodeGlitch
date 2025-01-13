@@ -54,7 +54,7 @@ The project is organized as follows:
 
 Make sure you have the following installed on your system:
 
-- C++ Compiler (e.g., G++)
+- C++ Compiler (e.g., GCC)
 - Terminal, Command Prompt (CMD), or Visual Studio Code
 
 ### Steps to Run
