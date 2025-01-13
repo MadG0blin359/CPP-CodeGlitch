@@ -1,4 +1,4 @@
-# Kruskal's & Prim's Algorithms Project
+# Project : Kruskal's & Prim's Algorithms
 
 ## Overview
 
@@ -43,7 +43,7 @@ This project contains the efforts of Shawaiz Shahid on the "Kruskal's & Prim's" 
 
 The project is organized as follows:
 
-- **[Algorithms]:** This project implements two key Minimum Spanning Tree (MST) algorithms, Kruskal's and Prim's, to demonstrate graph traversal and edge selection techniques effectively.
+- **Algorithms:** This project implements two key Minimum Spanning Tree (MST) algorithms, Kruskal's and Prim's, to demonstrate graph traversal and edge selection techniques effectively.
 - **`Source Files/`**: This folder contains all the source code files (`DSU.h`, `MST.h`, etc.).
 - **`Executable/`**: The compiled executable file for running the application.
 - **`README.md`**: This documentation file.
