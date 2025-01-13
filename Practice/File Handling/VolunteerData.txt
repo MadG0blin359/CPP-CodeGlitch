@@ -1,7 +1,0 @@
-No.		Name	Boxes Sold
-1.		Sara		655
-2.		Zain		523
-3.		Lucy		852
-
-Total Cookie Boxes Sold : 2030
-Total Revenue Generated : $7612.5
