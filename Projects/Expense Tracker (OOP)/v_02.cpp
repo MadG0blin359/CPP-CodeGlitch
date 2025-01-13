@@ -95,7 +95,7 @@ void getTime();
 
 int main() {
     
-    FinancialReport obj[size];
+    FinancialReport obj[category_size];
   
     char menu_choice;
 
