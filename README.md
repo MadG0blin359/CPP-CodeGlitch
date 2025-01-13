@@ -24,7 +24,8 @@ I've structured the repository to make it easy to navigate and locate specific a
 - **`Games/`**: Arcade - Collection of gaming-related projects or resources.
 - **`LeetCode/`**: Vault - Dedicated to LeetCode problems.
 - **`OPP Lab/`**: Lab Codes - Practice problems and exercises from Object-Oriented Programming lab sessions.
-- **`PracticeProblems/`**: Code Stash - Includes multiple sub-folders with categorized practice problems.
+- **`Practice DSA/`**: Algorithm Arsenal - Focused on Data Structures and Algorithms, featuring problem-solving
+- **`Practice OOP/`**: Code Stash - Includes multiple sub-folders with categorized practice problems.
   - **`Aggregation/`**: Aggregator Magic - Concepts and exercises related to aggregation.
   - **`Composition/`**: Composite Build - Learn and practice composition in OOP.
   - **`Constructors/`**: Construct Craft - Master constructors with practical examples.
@@ -32,6 +33,7 @@ I've structured the repository to make it easy to navigate and locate specific a
   - **`File Handling/`**: File Ops - File handling exercises and programs.
   - **`Inheritance/`**: Inherit Power - Understand and apply inheritance in C++.
   - **`Operator Overloading/`**: Operator Twist - Explore the world of operator overloading.
+  - **`Templates/`**: Template Treasure - Use of templates in C++ for creating generic classes and functions.
   - **`This/`**: Pointer Insight - Gain insights into the 'this' pointer.
 - **`Projects/`**: Innovation Hub - Larger-scale projects implemented in C++, each in its separate folder.
 - **`Tools/`**: Tool Box - Houses various programming utilities or resources utilized in development and coding tasks.
