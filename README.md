@@ -1,6 +1,6 @@
 # CPP-CodeGlitch
 
-🚀 C++ Language Practice Problems and Assignments Repository 💻💡 #CodeNinja
+🚀 C++ Language Practice Problems and Assignments Repository 💻💡 #CodeNinja #OOP #DSA
 
 Welcome to my C++ language practice repository! Here, you'll find a collection of practice problems, assignments, and projects related to C++ programming that I've completed during my time at NUCES.
 
@@ -14,7 +14,7 @@ Welcome to my C++ language practice repository! Here, you'll find a collection o
 
 ## Introduction
 
-This repository houses various C++ programming practice problems and assignments that I've tackled as part of my coursework at NUCES. The exercises cover fundamental concepts, algorithms, data structures, and more.
+This repository houses various C++ programming practice problems and assignments that I've tackled as part of my coursework at NUCES Pakistan. The exercises cover fundamental concepts, algorithms, data structures, and more.
 
 I've structured the repository to make it easy to navigate and locate specific assignments or practice sets.
 
@@ -49,7 +49,7 @@ Feel free to explore these folders to delve into specific topics or assignments.
 3. **Compile the Code**: Use your preferred C++ compiler.
 
 ```bash
-g++ -o output_filename source_code.cpp
+g++ source_code.cpp -o output_filename
 ```
 
 ### Running the Compiled Code
