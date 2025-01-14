@@ -23,9 +23,10 @@ I've structured the repository to make it easy to navigate and locate specific a
 - **`Assignments/`**: Archive - Contains the code and documentation for Assignments.
 - **`Games/`**: Arcade - Collection of gaming-related projects or resources.
 - **`LeetCode/`**: Vault - Dedicated to LeetCode problems.
-- **`OPP Lab/`**: Lab Codes - Practice problems and exercises from Object-Oriented Programming lab sessions.
-- **`Practice DSA/`**: Algorithm Arsenal - Focused on Data Structures and Algorithms, featuring problem-solving
+- **`Practice DSA/`**: Algorithm Arsenal - Focused on Data Structures and Algorithms, featuring problem-solving.
+  - **`DSA Lab/`**: Lab Codes - Practice problems and exercises from Data Structures & Algorithms lab sessions.
 - **`Practice OOP/`**: Code Stash - Includes multiple sub-folders with categorized practice problems.
+  - **`OOP Lab/`**: Lab Codes - Practice problems and exercises from Object-Oriented Programming lab sessions.
   - **`Aggregation/`**: Aggregator Magic - Concepts and exercises related to aggregation.
   - **`Composition/`**: Composite Build - Learn and practice composition in OOP.
   - **`Constructors/`**: Construct Craft - Master constructors with practical examples.
