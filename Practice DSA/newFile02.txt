@@ -1,0 +1,7 @@
+Hi! my name is Dora.
+What is your name?
+Ohh, you wanna play a quit game?
+I guess yes.
+Wow! you are really good at it.
+
+-----END OF FILE!-----
