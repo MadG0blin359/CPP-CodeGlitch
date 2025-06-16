@@ -95,12 +95,6 @@ CyberOS/
     └── autosave.cpp
 ```
 
-
-
-
-
-
-
 ## 💻 Installation & Usage
 
 ### Prerequisites
@@ -114,12 +108,12 @@ CyberOS/
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/MadG0blin359/CPP-CodeGlitch.git
+   git clone https://github.com/MadG0blin359/CPP-CodeGlitch
 
 2. **Navigate to the Project Directory:**
 
    ```bash
-   cd CPP-CodeGlitch/Projects
+   cd CPP-CodeGlitch/Projects/'Cyber OS Simulator (OS)'
 
 3. **Compile the C++ Code:**
 
