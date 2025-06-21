@@ -4,12 +4,12 @@
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![OS](https://img.shields.io/badge/Platform-Linux-lightgrey.svg)
 
-A C++ based operating system simulator with interactive mini-applications, developed as an Operating Systems project.
+> A command-line based **Operating System simulator** in C++ built as an academic project to demonstrate OS-level concepts like process management, memory handling, and multitasking. CyberOS also comes with a set of interactive mini-apps including games, tools, and utilities — all inside a simulated terminal UI.
 
 ## 🤝🏼 Collaborators
 
-- [Shawaiz Shahid](https://github.com/MadG0blin359)
-- [Waleed Afzal](https://github.com/beastwaleed)
+- 👨‍💻 [Shawaiz Shahid](https://github.com/MadG0blin359)
+- 👨‍💻 [Waleed Afzal](https://github.com/beastwaleed)
 
 ## ✍🏼 Contributions
 
