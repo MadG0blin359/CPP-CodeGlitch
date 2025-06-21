@@ -95,12 +95,6 @@ CyberOS/
     └── autosave.cpp
 ```
 
-
-
-
-
-
-
 ## 💻 Installation & Usage
 
 ### Prerequisites
