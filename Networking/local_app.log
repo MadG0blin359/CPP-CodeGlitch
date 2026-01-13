@@ -1,0 +1,5 @@
+INFO: System started successfully.
+ERROR: Failed to connect to database.
+INFO: User 'admin' logged in.
+CRITICAL: Memory usage above 95%!
+DEBUG: Cache cleared.

@@ -1,0 +1,2 @@
+[Client 5]: ERROR: Failed to connect to database.
+[Client 5]: CRITICAL: Memory usage above 95%!
