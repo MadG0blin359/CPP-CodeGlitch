@@ -23,7 +23,7 @@ I've structured the repository to make it easy to navigate and locate specific a
 - **`Assignments/`**: Archive - Contains the code and documentation for Assignments.
 - **`Games/`**: Arcade - Collection of gaming-related projects or resources.
 - **`LeetCode/`**: Vault - Dedicated to LeetCode problems.
-- **`Networking/`**: Protocol Pit - A collection of low-level network protocols and socket-based communication projects.
+- **`Networking/`**: Protocol Pit - Collection of low-level network protocols and socket-based communication projects.
 - **`Practice DSA/`**: Algorithm Arsenal - Focused on Data Structures and Algorithms, featuring problem-solving.
   - **`DSA Lab/`**: Lab Codes - Practice problems and exercises from Data Structures & Algorithms lab sessions.
 - **`Practice OOP/`**: Code Stash - Includes multiple sub-folders with categorized practice problems.
